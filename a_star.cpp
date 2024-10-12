@@ -6,7 +6,7 @@
 #include <cmath>
 #include <algorithm>
 #include <unordered_set>
-#include <limits> // Include to use infinity
+#include <limits> 
 
 // Constructor
 AStar::AStar(int w, int h) : width(w), height(h) {
